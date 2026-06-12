@@ -86,7 +86,7 @@ export default function Facilities() {
                 {facility.title}
               </h3>
               <p className="text-gray-600 leading-relaxed text-sm">
-                {facility.description || facility.desc}
+                {facility.desc}
               </p>
             </motion.div>
           ))}
