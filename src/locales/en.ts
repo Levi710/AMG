@@ -30,7 +30,7 @@ export const en = {
     items: [
       {
         title: "Exquisite Decor",
-        desc: "Premium in-house decor options ranging from ₹1,00,000 to ₹5,00,000 to match your theme."
+        desc: "Premium in-house decor options ranging from ₹50,000 to ₹5,00,000 to match your theme."
       },
       {
         title: "Flexible Catering",
@@ -42,7 +42,7 @@ export const en = {
       },
       {
         title: "DJ & Entertainment",
-        desc: "In-house DJ available, or you are welcome to arrange your own outside DJ."
+        desc: "In-house DJ available, or you are welcome to arrange your own outside DJ. Noise Regulations (Time & Volume Limits) strictly apply till 10pm."
       },
       {
         title: "Guest Rooms",
@@ -148,7 +148,7 @@ export const en = {
       minWordsError: "Please enter at least 50 characters in your message.",
       sendBtn: "Send Enquiry",
       sending: "Sending...",
-      placeholderName: "John Doe",
+      placeholderName: "Your Name",
       placeholderMessage: "Tell us more about your event requirements..."
     }
   },

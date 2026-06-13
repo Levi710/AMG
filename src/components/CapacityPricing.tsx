@@ -77,7 +77,7 @@ export default function CapacityPricing() {
               <p className="text-maroon-200 text-sm mb-6 uppercase tracking-wider">{tp.perFunction}</p>
               
               <div className="mb-8">
-                <span className="text-4xl md:text-5xl font-serif font-bold text-gold-400">₹1Lakh</span>
+                <span className="text-4xl md:text-5xl font-serif font-bold text-gold-400">₹50k</span>
                 <span className="text-2xl text-gold-300 font-serif mx-2">-</span>
                 <span className="text-4xl md:text-5xl font-serif font-bold text-gold-400">₹5Lakh</span>
                 <p className="text-sm text-maroon-300 mt-2">{tp.taxesExtra}</p>
